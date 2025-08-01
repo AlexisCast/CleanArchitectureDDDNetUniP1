@@ -16,6 +16,9 @@ Section 2 - Domain Layer
       dotnet sln add .\src\CleanArchitecture\CleanArchitecture.Domain\CleanArchitecture.Domain.csproj
 - feat/2: Domain Layer - Create Entity in Domain
     - add github pull request template
+- feat/3: Domain Layer - Modeling with DDD
+
+
 ## Course:
 
 - [ASP.NET Core y Clean Architecture con Domain Driven Design P1](https://www.udemy.com/course/clean-architecture)

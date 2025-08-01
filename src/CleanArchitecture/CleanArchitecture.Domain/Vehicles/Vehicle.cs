@@ -1,8 +1,11 @@
+using CleanArchitecture.Domain.Abstractions;
+
 namespace CleanArchitecture.Domain.Vehicles;
 
-public sealed class Vehicle
+public sealed class Vehicle : Entity
 {
-    public Guid Id { get; private set; }
+    public Vehicle(Guid id) : base(id)
+    { }
     public string? Model { get; private set; }
     public string? Vin { get; private set; }
     public string? Street { get; private set; }
