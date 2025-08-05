@@ -6,13 +6,9 @@ public sealed class Vehicle : Entity
 {
     public Vehicle(Guid id) : base(id)
     { }
-    public string? Model { get; private set; }
-    public string? Vin { get; private set; }
-    public string? Street { get; private set; }
-    public string? Department { get; private set; }
-    public string? Province { get; private set; }
-    public string? City { get; private set; }
-    public string? Country { get; private set; }
+    public Model? Model { get; private set; }
+    public Vin? Vin { get; private set; }
+    public Direction? Direction { get; private set; }
     public string Price { get; private set; }
     public string? CurrencyType { get; private set; }
     public decimal Mantainance { get; private set; }
