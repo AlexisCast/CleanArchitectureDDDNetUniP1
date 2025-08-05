@@ -17,6 +17,7 @@ Section 2 - Domain Layer
 - feat/2: Domain Layer - Create Entity in Domain
     - add github pull request template
 - feat/3: Domain Layer - Modeling with DDD
+- feat/4: Domain Layer - Domain Model with Value Objects
 
 
 ## Course:
