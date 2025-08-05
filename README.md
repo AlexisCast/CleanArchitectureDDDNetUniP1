@@ -20,6 +20,10 @@ Section 2 - Domain Layer
 - feat/4: Domain Layer - Domain Model with Value Objects
 - feat/5: Domain Layer - Rich Domain in DDD
 
+Section 3 - Domain Events & Notifications
+-
+- feat/6: Domain Events & Notifications - Modeling Entities with Factory Methods
+
 
 ## Course:
 
