@@ -23,6 +23,14 @@ Section 2 - Domain Layer
 Section 3 - Domain Events & Notifications
 -
 - feat/6: Domain Events & Notifications - Modeling Entities with Factory Methods
+- feat/7: Domain Events & Notifications - Domain Events & Notifications
+  - Commands used:
+    - ```
+      cd .\src\CleanArchitecture\CleanArchitecture.Domain\
+      dotnet add package MediatR.Contracts --version 2.0.1
+- 
+
+
 
 
 ## Course:
