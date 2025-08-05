@@ -18,6 +18,7 @@ Section 2 - Domain Layer
     - add github pull request template
 - feat/3: Domain Layer - Modeling with DDD
 - feat/4: Domain Layer - Domain Model with Value Objects
+- feat/5: Domain Layer - Rich Domain in DDD
 
 
 ## Course:
