@@ -30,10 +30,10 @@ Section 3 - Domain Events & Notifications
       dotnet add package MediatR.Contracts --version 2.0.1
     - <img width="325" height="152" alt="image" src="https://github.com/user-attachments/assets/842676fd-2ec4-4cbf-acb5-452dbaf87aae" />
 
-Section 4 - Repository Pattern & UnityOfWork
+Section 4 - Repository Pattern & UnitOfWork
 -
-- feat/8: Repository Pattern & UnityOfWork - Repository Pattern & UnitOfWork
-
+- feat/8: Repository Pattern & UnitOfWork - Repository Pattern & UnitOfWork
+- feat/9: Repository Pattern & UnitOfWork - Modeling Entity
 
 
 
