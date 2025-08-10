@@ -34,7 +34,7 @@ Section 4 - Repository Pattern & UnitOfWork
 -
 - feat/8: Repository Pattern & UnitOfWork - Repository Pattern & UnitOfWork
 - feat/9: Repository Pattern & UnitOfWork - Modeling Entity
-
+- feat/10: Repository Pattern & UnitOfWork - Rentals & Reservations
 
 
 ## Course:
